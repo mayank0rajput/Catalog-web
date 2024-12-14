@@ -3,18 +3,20 @@
         {
             "id": 1,
             "name": "Kishmish / Raisen",
-            "variety": "Popular (250 gm)",
+            "variety": "Popular",
             "size": "250 gm",
             "price": "₹120",
-            "image": "/assets/images/kishmish.png"
+            "image": "/assets/images/kishmish.png",
+            "desc": "Enjoy the natural sweetness of our Popular Kishmish. These raisins are packed in a 250 gm pack, perfect for a healthy snack or adding a touch of sweetness to your dishes. Rich in antioxidants and iron, they boost energy and digestion. \n\nAdvantages : \n1. Boosts energy \n2. Improves digestion \n3. Promotes heart health."
         },
         {
             "id": 2,
             "name": "Kishmish / Raisen",
-            "variety": "Popular (500 gm)",
+            "variety": "Popular",
             "size": "500 gm",
             "price": "₹250",
-            "image": "/assets/images/kishmish.png"
+            "image": "/assets/images/kishmish.png",
+            "desc": "Our Popular Kishmish in a 500 gm pack is an ideal choice for everyday snacking or baking. These raisins are a great source of vitamins and minerals, promoting good health while satisfying your sweet cravings. \n\nAdvantages : \n1. Boosts energy \n2. Improves digestion \n3. Promotes heart health."
         },
         {
             "id": 3,
@@ -22,7 +24,8 @@
             "variety": "Premium",
             "size": "250 gm",
             "price": "₹380",
-            "image": "/assets/images/kishmish.png"
+            "image": "/assets/images/kishmish.png",
+            "desc": "Indulge in the premium quality of our Premium Kishmish. This 250 gm pack offers a luxurious taste with every bite. Rich in natural sugars, fiber, and essential nutrients, it's perfect for a healthy snack or to enhance your dishes. \n\nAdvantages : \n1. Boosts energy \n2. Improves digestion \n3. Promotes heart health."
         },
         {
             "id": 4,
@@ -30,7 +33,9 @@
             "variety": "Premium",
             "size": "500 gm",
             "price": "₹280",
-            "image": "/assets/images/khumani.png"
+            "image": "/assets/images/khumani.png",
+            "desc": "Our Premium Khumani (Apricots) come in a generous 500 gm pack. Full of vitamin A, fiber, and antioxidants, these apricots are a perfect addition to your diet for better digestion, improved skin, and overall well-being.\n\nAdvantages \n1. Improves vision\n2. Aids in weight management\n3. Supports skin health"
+
         },
         {
             "id": 5,
@@ -38,7 +43,8 @@
             "variety": "Premium",
             "size": "500 gm",
             "price": "₹320",
-            "image": "/assets/images/blackraisin.png"
+            "image": "/assets/images/blackraisin.png",
+            "desc": "Savor the rich flavor of Premium Kali Kishmish (Black Raisins). This 500 gm pack is rich in iron and calcium, making it an excellent choice for boosting energy and supporting bone health. A perfect snack for those looking for a nutritious treat. \n\nAdvantages \n1. Boosts iron levels\n2. Strengthens bones\n3. Promotes kidney health\n"
         },
         {
             "id": 6,
@@ -46,7 +52,8 @@
             "variety": "Premium",
             "size": "500 gm",
             "price": "₹320",
-            "image": "/assets/images/munakka.png"
+            "image": "/assets/images/munakka.png",
+            "desc": "Packed with health benefits, Premium Munnaca comes in a 500 gm pack. Munnaca, a variant of dried grapes, is known for its high antioxidant content, promoting heart health and improving digestion.\n\nAdvantages \n1. Improves heart health\n2. Soothes digestive issues\n3. Enhances memory"
         },
         {
             "id": 7,
@@ -54,7 +61,8 @@
             "variety": "Premium",
             "size": "500 gm",
             "price": "₹350",
-            "image": "/assets/images/munakka.png"
+            "image": "/assets/images/munakka.png",
+            "desc": "Our Premium Munnaca - v3 in a 500 gm pack is ideal for improving overall health. Rich in fiber, iron, and potassium, it’s perfect for boosting your immunity and maintaining good digestive health.\n\nAdvantages \n1. Reduces acidity\n2. Boosts immunity\n3. Prevents fatigue"
         },
         {
             "id": 8,
@@ -62,7 +70,8 @@
             "variety": "Premium",
             "size": "250 gm",
             "price": "₹350",
-            "image": "/assets/images/anjeer.png"
+            "image": "/assets/images/anjeer.png",
+            "desc": "Taste the richness of Premium Anjeer (Figs) in a 250 gm pack. Figs are packed with essential nutrients like calcium, potassium, and fiber, promoting bone health, digestion, and a healthy heart. Perfect for a quick energy boost throughout the day.\n\nAdvantages \n1. Improves bone strength\n2. Regulates blood sugar\n3. Supports digestive health"
         }
     ]
 }
